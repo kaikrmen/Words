@@ -1,0 +1,82 @@
+{
+    "main": {
+        "Tribute": "Tribute",
+        "Play for peace": "Play for peace",
+        "Tickets": "Tickets",
+        "Streaming": "Streaming",
+        "Merchandising": "Merchandising"
+    },
+    "about": {
+        "Title": "About",
+        "P1": "The event is promoted by the S.S. Pope Francis and his main objective is to give a message of peace and unity at key moments; that from sport and with the support of his greatest figures, and of the Holy Father, he manages to reach the entire world.",
+        "P2": "Players from all over the world, of different religious confessions and beliefs, are the engine that gives life to this event that helps sustain the activities and initiatives that the Pontifical Scholas Occurrentes Movement (created by the S.S Pope Francis) develops in the five continents.",
+        "Read more": "Read more"
+    },
+    "gallery": {
+        "Title": "Gallery"
+     },
+     "streaming": {
+        "Streaming": "Streaming",
+        "P1": "",
+        "Buy tickets streaming": "Buy tickets"
+     }, 
+     "video players":{
+        "Title": "Video players"
+     },
+     "guests":{
+        "Title": "Guests",
+        "Argentina": "Argentina",
+        "Brazil": "Brazil",
+        "Italy": "  Italy"
+     },
+     "scholas": {
+        "Title": "Scholas",
+        "P1": "The Pontifical Scholas Occurrentes Movement was launched by His Holiness Pope Francis. Its mission is to link technology, art and sports in order to promote education and achieve the integration of all communities, responding to the call to create the Culture of Encounter by bringing together young people in an education that generates meaning.",
+        "Read more": "Read more"
+     },
+     "nft collection": {
+        "Title": "NFT COLLECTION",
+        "P1": "You will be able to contribute through donations to the event and receive as a gift an NFT from the different collections available and enjoy its benefits",
+        "Days": "Days",
+        "Hours": "Hours",
+        "Minutes": "Minutes"
+        
+     },
+     "merchandising": {
+        "Title": "MERCHANDISING"
+     },
+    "message for peace": {
+        "Title": "MESSAGE FOR PEACE",
+        "See messages": "See messages"
+    },
+    "stadium": {
+        "Title": "Location",
+        "stadium": "OLYMPIC STADIUM",
+        "Rome": "Rome",
+        "Program": "PROGRAM",
+        "Opening ceremony": "OPENING CEREMONY",
+        "Welcomen message": "WELCOME MESSAGE",
+        "Start of match": "START OF MATCH",
+        "Half time": "HALF TIME",
+        "Half time show": "HALF TIME SHOW",
+        "Start second part": "START SECOND PART",
+        "Full time": "FULL TIME"
+    },
+    "news":{
+        "Title": "NEWS",
+        "Read more": "Read more",
+        "T1": "MARADONA'S SHOUT FOR THE PEACE MATCH",
+        "P1": "As announced in the first round at Scholas Occurrentes' international meeting with Pope Francis, he will virtually announce the tribute to Diego Maradona on Oct. 10, culminating in the Peace Match, 'We Play For Peace,' which will take place on Nov. 14 at the Olympic Stadium in Rome.",
+        "T2": "PEACE MATCH AND A SPECIAL TRIBUTE...",
+        "P2": "As announced in May, on the occasion of the international meeting of Scholas Occurrentes youth with Pope Francis, a virtual tribute to Diego Maradona will be launched on November 10. It will culminate with the Match for Peace, to be played on November 14 at the Olympic Stadium in Rome.",
+        "T3": "TRIBUTE TO DIEGO MARADONA", 
+        "P3": "Argentine star Diego Armando Maradona will be honored from next Monday, October 10, until the Match for Peace to be played on November 14 at the Olympic Stadium in Rome. Maradona was a promoter and main figure as captain of the Scholas team in the first Match for Peace held in 2016."
+    },
+    "Sponsors": {
+        "Title": "SPONSORS"
+    },
+    "Footer":{
+        "Suscribe": "SUSCRIBE"
+    }
+    
+}

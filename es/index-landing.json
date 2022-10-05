@@ -1,0 +1,82 @@
+{
+    "main": {
+        "Tribute": "Tributo",
+        "Play for peace": "Juego por la paz",
+        "Tickets": "Tickets",
+        "Streaming": "Directos",
+        "Merchandising": "Mercancia"
+    },
+    "about": {
+        "Title": "Acerca De",
+        "P1": "El evento está promovido por el S.S. Papa Francisco y su principal objetivo es dar un mensaje de paz y unidad en momentos clave; que desde el deporte y con el apoyo de sus mayores figuras, y del Santo Padre, consigue llegar a todo el mundo.",
+        "P2": "Jugadores de todo el mundo, de diferentes confesiones religiosas y creencias, son el motor que da vida a este evento que ayuda a sostener las actividades e iniciativas que el Movimiento Pontificio Scholas Occurrentes (creado por el S.S Papa Francisco) desarrolla en los cinco continentes.",
+        "Read more": "Leer más"
+    },
+    "gallery": {
+        "Title": "Galería"
+     },
+     "streaming": {
+        "Streaming": "Directos",
+        "P1": "",
+        "Buy tickets streaming": "Comprar entradas en directo"
+     }, 
+     "video players":{
+        "Title": "Video reproductor"
+     },
+     "guests":{
+        "Title": "Invitados",
+        "Argentina": "Argentina",
+        "Brazil": "Brasil",
+        "Italy": "  Italia"
+     },
+     "scholas": {
+        "Title": "Scholas",
+        "P1": "El Movimiento Pontificio Scholas Occurrentes fue lanzado por Su Santidad el Papa Francisco. Su misión es vincular la tecnología, el arte y el deporte para promover la educación y lograr la integración de todas las comunidades, respondiendo a la llamada a crear la Cultura del Encuentro, reuniendo a los jóvenes en una educación generadora de sentido.",
+        "Read more": "Leer más"
+     },
+     "nft collection": {
+        "Title": "Colección NFT",
+        "P1": "Podrás contribuir mediante donaciones al evento y recibir como regalo un NFT de las distintas colecciones disponibles y disfrutar de sus beneficios.",
+        "Days": "Días",
+        "Hours": "Horas",
+        "Minutes": "Minutos"
+        
+     },
+     "merchandising": {
+        "Title": "Mercancia"
+     },
+    "message for peace": {
+        "Title": "Mensaje por la paz",
+        "See messages": "Ver mensajes"
+    },
+    "stadium": {
+        "Title": "Ubicación",
+        "stadium": "Estadio olímpico",
+        "Rome": "Roma",
+        "Program": "Programa",
+        "Opening ceremony": "CEREMONIA DE APERTURA",
+        "Welcomen message": "MENSAJE DE BIENVENIDA",
+        "Start of match": "COMIENZO DEL PARTIDO",
+        "Half time": "MEDIO TIEMPO",
+        "Half time show": "ESPECTÁCULO DE MEDIO TIEMPO",
+        "Start second part": "INICIAR LA SEGUNDA PARTE",
+        "Full time": "TIEMPO COMPLETO"
+    },
+    "news":{
+        "Title": "Noticias",
+        "Read more": "Leer más",
+        "T1": "EL GRITO DE MARADONA PARA EL PARTIDO DE LA PAZ",
+        "P1": "Como se anunció en la primera ronda del encuentro internacional de Scholas Occurrentes con el Papa Francisco, éste anunciará virtualmente el homenaje a Diego Maradona el 10 de octubre, que culminará con el Partido por la Paz, 'Jugamos por la Paz', que tendrá lugar el 14 de noviembre en el Estadio Olímpico de Roma.",
+        "T2": "PARTIDO POR LA PAZ Y UN HOMENAJE ESPECIAL...",
+        "P2": "Como se anunció en mayo, con motivo del encuentro internacional de los jóvenes de Scholas Occurrentes con el Papa Francisco, el 10 de noviembre se lanzará un homenaje virtual a Diego Maradona. Culminará con el Partido por la Paz, que se disputará el 14 de noviembre en el Estadio Olímpico de Roma.",
+        "T3": "HOMENAJE A DIEGO MARADONA", 
+        "P3": "El astro argentino Diego Armando Maradona será homenajeado desde el próximo lunes 10 de octubre hasta el Partido por la Paz que se jugará el 14 de noviembre en el Estadio Olímpico de Roma. Maradona fue promotor y figura principal como capitán del equipo de Scholas en el primer Partido por la Paz celebrado en 2016."
+    },
+    "Sponsors": {
+        "Title": "Patrocinadores"
+    },
+    "Footer":{
+        "Suscribe": "Suscribete"
+    }
+    
+}

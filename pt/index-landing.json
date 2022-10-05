@@ -1,0 +1,82 @@
+{
+    "main": {
+        "Tribute": "Homenagem",
+        "Play for peace": "Jogo da paz",
+        "Tickets": "Bilhetes",
+        "Streaming": "Transmissão em directo",
+        "Merchandising": "Merchandise"
+    },
+    "about": {
+        "Title": "Acerca De",
+        "P1": "O evento é promovido pelo Papa S.S. Francisco e o seu principal objectivo é dar uma mensagem de paz e unidade em momentos chave; que a partir do desporto e com o apoio das suas maiores figuras, e do Santo Padre, ele consegue chegar a todo o mundo.",
+        "P2": "Jogadores de todo o mundo, de diferentes confissões e crenças religiosas, são o motor que dá vida a este evento que ajuda a sustentar as actividades e iniciativas que o Movimento Pontifício das Escolas Ocorrentes (criado pelo Papa S.S. Francisco) desenvolve nos cinco continentes.",
+        "Read more": "Leia mais"
+    },
+    "gallery": {
+        "Title": "Galeria"
+     },
+     "streaming": {
+        "Streaming": "Transmissão em directo",
+        "P1": "",
+        "Buy tickets streaming": "Comprar bilhetes em directo"
+     }, 
+     "video players":{
+        "Title": "Reproducciones de vídeo"
+     },
+     "guests":{
+        "Title": "Convidados",
+        "Argentina": "Argentina",
+        "Brazil": "Brasil",
+        "Italy": "Itália"
+     },
+     "scholas": {
+        "Title": "Scholas",
+        "P1": "O Movimento Pontifício das Escolas Ocorrentes foi lançado por Sua Santidade o Papa Francisco. A sua missão é ligar tecnologia, arte e desporto de modo a promover a educação e conseguir a integração de todas as comunidades, respondendo ao apelo de criar a Cultura do Encontro, reunindo os jovens numa educação que gere sentido.",
+        "Read more": "Leia mais"
+     },
+     "nft collection": {
+        "Title": "NFT COLECÇÃO",
+        "P1": "Poderá doar para o evento e receber um NFT das diferentes colecções disponíveis como presente e usufruir dos benefícios.",
+        "Days": "Dias",
+        "Hours": "Horas",
+        "Minutes": "Acta"
+        
+     },
+     "merchandising": {
+        "Title": "Merchandise"
+     },
+    "message for peace": {
+        "Title": "Mensagem para a paz",
+        "See messages": "Veja as mensagens"
+    },
+    "stadium": {
+        "Title": "Localização ",
+        "stadium": "Estádio Olímpico",
+        "Rome": "Roma",
+        "Program": "Programa",
+        "Opening ceremony": "CERIMÓNIA DE ABERTURA",
+        "Welcomen message": "MENSAGEM DE BOAS-VINDAS",
+        "Start of match": "INÍCIO DO ENCONTRO",
+        "Half time": "HALF TIME",
+        "Half time show": "HALF TIME SHOW",
+        "Start second part": "INICIAR A SEGUNDA PARTE",
+        "Full time": "TEMPO CHEIA"
+    },
+    "news":{
+        "Title": "Noticias",
+        "Read more": "Leia mais",
+        "T1": "O GRITO DE MARADONA PARA O JOGO DE PAZ",
+        "P1": "Como anunciado na primeira fase do encontro internacional das Scholas Occurrentes com o Papa Francisco, ele anunciará virtualmente a homenagem a Diego Maradona no dia 10 de Outubro, culminando no Jogo da Paz, 'Jogamos Pela Paz', que terá lugar no dia 14 de Novembro no Estádio Olímpico em Roma.",
+        "T2": "PEACE MATCH AND A SPECIAL HOMENAGEM...",
+        "P2": "Como anunciado em Maio, por ocasião do encontro internacional de jovens das Escolas Ocorrentes com o Papa Francisco, será lançada a 10 de Novembro uma homenagem virtual a Diego Maradona. Culminará com o Match for Peace, a ser disputado no dia 14 de Novembro no Estádio Olímpico de Roma.",
+        "T3": "HOMENAGEM A DIEGO MARADONA", 
+        "P3": "Argentine star Diego Armando Maradona will be honored from next Monday, October 10, until the Match for Peace to be played on November 14 at the Olympic Stadium in Rome. Maradona was a promoter and main figure as captain of the Scholas team in the first Match for Peace held in 2016."
+    },
+    "Sponsors": {
+        "Title": "Os patrocinadores"
+    },
+    "Footer":{
+        "Suscribe": "Suscrição"
+    }
+    
+}
