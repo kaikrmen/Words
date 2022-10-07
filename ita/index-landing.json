@@ -75,7 +75,16 @@
         "Title": "Gli sponsor"
     },
     "Footer":{
-        "Suscribe": "Iscriviti"
+        "Home": "Casa",
+        "Tickets": "Biglietti",
+        "Streaming": "In streaming",
+        "About": "Circa",
+        "Scholas": "Scholas",
+        "Faqs": "FAQs",
+        "Legal": "Legale",
+        "Privay policy": "Politica di privativa",
+        "Cookie policy": "Politica sui cookie",
+        "Legal notice": "Avviso legale"
     }
     
 }

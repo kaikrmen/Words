@@ -76,7 +76,16 @@
         "Title": "Patrocinadores"
     },
     "Footer":{
-        "Suscribe": "Suscribete"
+        "Home": "Inicio",
+        "Tickets": "Tickets",
+        "Streaming": "Directos",
+        "About": "Acerca De",
+        "Scholas": "Scholas",
+        "FAQs": "FAQs",
+        "Legal": "Legal",
+        "Privacy Policy": "Políticas privadas",
+        "Cookie policy": "Políticas de cookies",
+        "Legal notice": "Aviso Legal"
     }
     
 }

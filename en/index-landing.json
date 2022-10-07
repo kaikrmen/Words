@@ -76,7 +76,17 @@
         "Title": "SPONSORS"
     },
     "Footer":{
-        "Suscribe": "SUSCRIBE"
+        "Title": "Menu",
+        "Home": "Home",
+        "Tickets": "Tickets",
+        "Streaming": "Streaming",
+        "About": "About",
+        "Scholas": "Scholas",
+        "Faqs": "FAQs",
+        "Legal": "Legal",
+        "Privay policy": "Privay policy",
+        "Cookie policy": "Cookie policy",
+        "Legal notice": "Legal notice"
     }
     
 }

@@ -76,7 +76,17 @@
         "Title": "Os patrocinadores"
     },
     "Footer":{
-        "Suscribe": "Suscrição"
+        "Home": "Início",
+        "Tickets": "Bilhetes",
+        "Streaming": "Transmissão em directo",
+        "About": "Acerca De",
+        "Scholas": "Scholas",
+        "Faqs": "FAQs",
+        "Legal": "Legal",
+        "Privay policy": "Política de privacidade",
+        "Cookie policy": "Política de cookies",
+        "Legal notice": "Aviso Legal"
+
     }
     
 }
