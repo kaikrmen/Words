@@ -1,6 +1,7 @@
 {
     "Name": "Nome",
     "Email": "Correo",
+    "Last Name": "Apelido",
     "Password": "Palavra-passe",
     "Confirm password": "Confirmar palavra-passe",
     "Area code": "Código",

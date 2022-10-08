@@ -1,5 +1,6 @@
 {
     "Name": "Name",
+    "Last Name": "Last Name",
     "Email": "Email",
     "Password": "Password",
     "Confirm password": "Confirm password",
