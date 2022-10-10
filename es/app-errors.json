@@ -3,5 +3,6 @@
     "401": "Credenciales no válidas",
     "512": "Algo salió mal",
     "4001": "Usuario no verificado",
-    "5003": "El correo electrónico o el número ya están registrados"
+    "5003": "El correo electrónico o el número ya están registrados",
+    "5007": "Captcha inválido"
 }
