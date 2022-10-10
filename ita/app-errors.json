@@ -4,5 +4,6 @@
     "512": "Qualcosa è andato storto",
     "4001": "Utente non verificato",
     "5003": "L'e-mail o il numero sono già registrati",
-    "5007": "captcha non valido"
+    "5007": "captcha non valido",
+    "Network": "Errore di connessione al server"
 }

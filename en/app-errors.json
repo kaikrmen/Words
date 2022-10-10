@@ -4,5 +4,6 @@
     "512": "Something went wrong",
     "4001": "Unverified user",
     "5003": "Email or number are alredy registered",
-    "5007": "Invalid captcha"
+    "5007": "Invalid captcha",
+    "Network": "Error connecting to server"
 }
