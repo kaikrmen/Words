@@ -11,5 +11,9 @@
     "Title": "Welcome, if you are here it is because you want to collaborate and be part of this community.",
     "P1": "The first thing you should do is register so we know who you are and then, as a first step, you can leave a message for peace in our guestbook and you will also find different ways to collaborate with donations that will help the Scholas Occurrente Foundation to continue its work around the world (www.scholasoccurrentes.org).",
     "P2": "As a thank you for your collaboration you will receive unique digital art pieces from the event or access to exclusive content, in NFT format (if you want to know what they are and what you can do with them visit our FAQs section).",
-    "P3": "Thanks for being part of it!"
+    "P3": "Thanks for being part of it!",
+    "Warning1": "Pasword must be at least 8 characters and less than 15 characters",
+    "Warning2": "There must be at least one number",
+    "Warning3": "There must be at least one letter (case insensitive)",
+    "Warning4": "Invalid characters"
 }

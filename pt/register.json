@@ -11,5 +11,9 @@
     "Title": "Seja bem-vindo, se está aqui é porque quer colaborar e fazer parte desta comunidade.",
     "P1": "A primeira coisa a fazer é registar-se para que saibamos quem é e depois, como primeiro passo, pode deixar uma mensagem de paz no nosso livro de visitas e encontrará também diferentes formas de colaborar com doações que ajudarão a Fundação Scholas Occurrente a continuar o seu trabalho em todo o mundo (www.scholasoccurrentes.org).",
     "P2": "Como agradecimento pela sua colaboração, receberá obras de arte digital únicas do evento ou acesso a conteúdos exclusivos, em formato NFT (se quiser saber o que são e o que pode fazer com elas visite a nossa secção FAQs).",
-    "P3": "Obrigado por fazer parte dela!"
+    "P3": "Obrigado por fazer parte dela!",
+    "Warning1": "A palavra-passe deve ter pelo menos 8 caracteres e menos de 15 caracteres",
+    "Warning2": "Deve haver pelo menos um número",
+    "Warning3": "Deve haver pelo menos uma letra (insensível a maiúsculas e minúsculas",
+    "Warning4": "Personagens inválidos"
 }
