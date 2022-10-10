@@ -1,0 +1,7 @@
+{
+    "429": "Too many requests, try again later",
+    "401": "Invalid credentials",
+    "512": "Something went wrong",
+    "4001": "Unverified user",
+    "5003": "Email or number are alredy registered"
+}
