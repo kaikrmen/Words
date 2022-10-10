@@ -1,0 +1,8 @@
+{
+    "How to": "How to adjust gas fees on MetaMask?",
+    "T1": "Here is a quick guide on how to manually adjust gas fees:",
+    "P1": "This is the standard pop up you will see when MetaMask needs your authorization to approve the transaction you are about to make.",
+    "P2": "To simplify the process, MetaMask would have already determined the amount of gas needed and show a rough estimate of the gas fee.",
+    "P3": "You can hit the “Edit” button next to the estimated gas fee for more options.",
+    "P4": "You will be presented with the option to toggle between three different speeds: low, medium and high. it is recommended to select medium or high to avoid gas errors."
+}

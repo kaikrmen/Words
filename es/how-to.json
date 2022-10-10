@@ -1,0 +1,8 @@
+{
+    "How to": "¿Cómo ajustar las tasas de gas en MetaMask?",
+    "T1": "Aquí hay una guía rápida sobre cómo ajustar manualmente las tarifas de gas:",
+    "P1": "Esta es la ventana emergente estándar que verás cuando MetaMask necesite tu autorización para aprobar la transacción que vas a realizar.",
+    "P2": "Para simplificar el proceso, MetaMask ya habría determinado la cantidad de gas necesaria y mostraría una estimación aproximada de la tasa de gas.",
+    "P3": "Puedes pulsar el botón 'Editar' al lado de la tarifa de gas estimada para obtener más opciones.",
+    "P4": "Se le presentará la opción de alternar entre tres velocidades diferentes: baja, media y alta. se recomienda seleccionar media o alta para evitar errores de gas."
+}

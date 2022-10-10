@@ -1,0 +1,8 @@
+{
+    "How to": "Come regolare le tariffe del gas su MetaMask?",
+    "T1": "Ecco una guida rapida su come regolare manualmente le tariffe del gas:",
+    "P1": "Questo è il pop-up standard che vedrete quando MetaMask ha bisogno della vostra autorizzazione per approvare la transazione che state per effettuare.",
+    "P2": "Per semplificare il processo, MetaMask avrebbe già determinato la quantità di gas necessaria e mostrato una stima approssimativa della tariffa del gas.",
+    "P3": "È possibile premere il pulsante 'Modifica' accanto alla stima della tariffa del gas per ottenere ulteriori opzioni.",
+    "P4": "Verrà presentata l'opzione per passare da una velocità all'altra: bassa, media e alta. si consiglia di selezionare media o alta per evitare errori di gas."
+}
