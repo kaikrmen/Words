@@ -1,5 +1,6 @@
 {
     "429": "Demasiadas solicitudes, inténtelo más tarde",
+    "401": "Código de verificación no válido",
     "5001": "Credenciales no válidas",
     "512": "Algo salió mal",
     "4001": "Usuario no verificado",

@@ -1,5 +1,6 @@
 {
     "429": "Too many requests, try again later",
+    "401": "Invalid verification code",
     "5001": "Invalid credentials",
     "512": "Something went wrong",
     "4001": "Unverified user",

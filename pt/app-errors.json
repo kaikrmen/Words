@@ -1,5 +1,6 @@
 {
     "429": "Demasiados pedidos, tente novamente mais tarde",
+    "401": "Código de verificação inválido",
     "5001": "Credenciais inválidas",
     "512": "Algo correu mal",
     "4001": "Utilizador não verificado",
