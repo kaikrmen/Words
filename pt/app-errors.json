@@ -4,6 +4,7 @@
     "5001": "Credenciais inválidas",
     "512": "Algo correu mal",
     "4001": "Utilizador não verificado",
+    "4002": "Sesion expirou, favor fazer o login novamente",
     "5003": "Email ou número já estão registados",
     "5007": "Inválido captcha",
     "Network": "Erro de ligação ao servidor"
