@@ -1,5 +1,9 @@
 {
     "Title": "MESSAGE FOR",
     "Title2": "PEACE",
-    "No message": "No peace messages available, try again later"
+    "No message": "No peace messages available, try again later",
+    "From": "Message from",
+    "Peace": "Peace Message",
+    "Button send": "Send Message",
+    "My message": "Your peace message"
 }

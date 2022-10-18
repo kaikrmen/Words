@@ -1,6 +1,7 @@
 {
     "429": "Too many requests, try again later",
     "401": "Invalid verification code",
+    "500": "The file size is larger than 20 MB or exceeded the file limit.",
     "5001": "Invalid credentials",
     "512": "Something went wrong",
     "4001": "Unverified user",

@@ -1,5 +1,9 @@
 {
     "Title": "Mensaje por la",
     "Title2": "Paz",
-    "No message": "No hay mensajes de paz disponibles, inténtelo más tarde"
+    "No message": "No hay mensajes de paz disponibles, inténtelo más tarde",
+    "From": "Mensaje de",
+    "Peace": "Peace Message",
+    "Button send": "Enviar mensaje",
+    "My message": "Tu mensaje de paz"
 }

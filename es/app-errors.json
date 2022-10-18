@@ -1,7 +1,8 @@
 {
     "429": "Demasiadas solicitudes, inténtelo más tarde",
     "401": "Código de verificación no válido",
-    "5001": "Credenciales no válidas",
+    "500": "El tamaño del archivo es superior a 20 MB o ha superado el límite de archivos",
+    "5001": "Credenciales Invalidas",
     "512": "Algo salió mal",
     "4001": "Usuario no verificado",
     "4002": "Sesión expirada, por favor inicie sesión nuevamente",
