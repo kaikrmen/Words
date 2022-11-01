@@ -7,7 +7,7 @@
         "Merchandising": "Merchandising"
     },
     "about": {
-        "Title": "Circa",
+        "Title": "L'evento",
         "P1": "L'evento è promosso da S.S. Papa Francesco e il suo obiettivo principale è quello di dare un messaggio di pace e di unità nei momenti chiave; che dallo sport e con il supporto dei suoi più grandi personaggi, e del Santo Padre, riesce a raggiungere tutto il mondo.",
         "P2": "Giocatori di tutto il mondo, di diverse confessioni religiose e credenze, sono il motore che dà vita a questo evento che contribuisce a sostenere le attività e le iniziative che il Movimento Pontificio Scholas Occurrentes (creato dal S.S Papa Francesco) sviluppa nei cinque continenti.",
         "Read more": "Per saperne di più"
@@ -75,10 +75,10 @@
         "Title": "Gli sponsor"
     },
     "Footer":{
-        "Home": "Inicio",
+        "Home": "Inizio",
         "Tickets": "Biglietti",
         "Streaming": "In streaming",
-        "About": "Circa",
+        "About": "L'evento",
         "Scholas": "Scholas",
         "Faqs": "FAQs",
         "Legal": "Legale",
