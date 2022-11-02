@@ -44,7 +44,12 @@
         
      },
      "merchandising": {
-        "Title": "MERCHANDISING"
+        "Title": "MERCHANDISING",
+        "Buy": "BUY",
+        "PopUp1": "YOU ARE LEAVING WEPLAYFORPEACE.IO TO BUY A T-SHIRT.",
+        "PopUp2": "IF YOU WANT TO BUY AN NFT, GO BACK TO THE ACTUAL SITE",
+        "Back": "GO BACK",
+        "Continue": "CONTINUE"
      },
     "message for peace": {
         "Title": "MESSAGE FOR PEACE",

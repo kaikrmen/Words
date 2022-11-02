@@ -43,7 +43,12 @@
         "Minutes": "Minuti"
      },
      "merchandising": {
-        "Title": "Merchandising"
+        "Title": "Merchandising",
+        "Buy": "ACQUISTO",
+        "PopUp1": "SI LASCIA WEPLAYFORPEACE.IO PER ACQUISTARE UNA MAGLIETTA.",
+        "PopUp2": "SE VOLETE ACQUISTARE UN NFT, TORNATE AL SITO VERO E PROPRIO",
+        "Back": "INDIETRO",
+        "Continue": "CONTINUA"
      },
     "message for peace": {
         "Title": "Messaggio di pace",

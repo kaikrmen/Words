@@ -44,7 +44,12 @@
         
      },
      "merchandising": {
-        "Title": "Mercancia"
+        "Title": "Mercancia",
+        "Buy": "COMPRAR",
+        "PopUp1": "ESTÁS SALIENDO DE WEPLAYFORPEACE.IO PARA COMPRAR UNA CAMISETA.",
+        "PopUp2": "SI QUIERES COMPRAR UN NFT, VUELVE AL SITIO ACTUAL",
+        "Back": "VOLVER",
+        "Continue": "CONTINUAR"
      },
     "message for peace": {
         "Title": "Mensaje por la paz",
@@ -84,7 +89,7 @@
         "Scholas": "Scholas",
         "FAQs": "FAQs",
         "Legal": "Legal",
-        "Privay Policy": "Políticas de privacidad",
+        "Privacy Policy": "Políticas de privacidad",
         "Cookie policy": "Políticas de cookies",
         "Legal notice": "Aviso Legal"
     }
