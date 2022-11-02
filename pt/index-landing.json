@@ -21,7 +21,8 @@
         "Buy tickets streaming": "Comprar bilhetes em directo"
      }, 
      "video players":{
-        "Title": "Reproducciones de vídeo"
+        "Title": "Reproducciones de vídeo",
+         "Buy": "comprar nfts"
      },
      "guests":{
         "Title": "Convidados",
